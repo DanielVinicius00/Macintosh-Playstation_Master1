@@ -1,0 +1,12 @@
+Tower = T (white-left) t (white-right), R (black-left) r (black-right)
+
+Horse = H (white-left) h (white-right), N (black-left) n (black-right)
+
+Bishop = B (white-left) b (white-right), I (black-left) i (black-right)
+
+Queen = Q (white), D (black)
+
+King = K (white), G (black)
+
+Pawn = P (white), A (black)
+
